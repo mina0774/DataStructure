@@ -1,0 +1,3 @@
+﻿  count_BNT.c
+C:\Users\조민아\source\repos\DS-programming2\DS-programming2\count_BNT.c(156): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DS-programming2.vcxproj -> C:\Users\조민아\source\repos\DS-programming2\x64\Debug\DS-programming2.exe
